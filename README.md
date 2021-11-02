@@ -1,4 +1,4 @@
-## **w3r**
+## **web3-react**
 A Simple Web3 + React Project
 
 ---
